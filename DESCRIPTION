@@ -6,7 +6,7 @@ Date: 2017-11-13
 Author: Lynn Yi, Lior Pachter
 Maintainer: Lynn Yi <lynnyi@caltech.edu>, Lior Pachter <lpachter@caltech.edu>
 Description: Contains functionality for performing the following methods of p-value aggregation: Fisher's method, the Lancaster method (weighted Fisher's method), and Sidak correction (minimum p-value method with correction).
-License: What license is it under?
+License: GPL 3.0 
 RoxygenNote: 6.0.1
 
 
